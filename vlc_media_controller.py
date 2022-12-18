@@ -6,7 +6,7 @@ gi.require_version("Gtk", "3.0")
 
 from gi.repository import Gtk
 from gi.repository import Gst
-from gui.vlc_media_controller import VLCMediaControllerGUI
+from gui.VLCMediaController import VLCMediaControllerGUI
 
 
 Gst.init(None)
